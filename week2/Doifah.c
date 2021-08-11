@@ -41,7 +41,7 @@ int main()
         {
             sum=sum+(25*q);
         }
-    } while (n>0);
+    } while (n>=0&&n<=5);
     printf("Total price %.2f\n",sum);
     if(sum>=1000)
     {

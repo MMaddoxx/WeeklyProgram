@@ -45,7 +45,7 @@ int main()
     printf("Total price %.2f\n",sum);
     if(sum>=1000)
     {
-        printf("Surprise! You get promotion 10%% (If you buy over than 1,000B\n");
+        printf("Surprise! You get promotion 10%% (If you buy over than 1,000B)\n");
         di=0.1;//เพิ่มส่วนลด10%
     }
     do

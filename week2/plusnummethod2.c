@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//64011160 นนทัช มุกลีมาศ
 int main()
 {
     int num[3],i,j,a;

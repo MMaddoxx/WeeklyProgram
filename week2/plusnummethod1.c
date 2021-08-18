@@ -4,7 +4,7 @@ int main()
     int num[3],i;
     for(i=0;i<=2;i++)
     {
-        printf("Enter number of number %d : ",i+1);
+        printf("Enter number %d : ",i+1);
         scanf("%d",&num[i]);
     }
     if(num[0]>num[1]&&num[0]>num[2])//ใช้วิธีเปรียบเทียบทีละตัว

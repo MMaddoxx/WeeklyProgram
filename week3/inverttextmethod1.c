@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+int main()//ใช้วิธีprintจากด้านหลังมาหน้า
 {
     char text[99];
     int i;

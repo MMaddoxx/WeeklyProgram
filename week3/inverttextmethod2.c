@@ -12,5 +12,5 @@ int main()//ใช้วิธีสลับstring
         text[i]=text[strlen(text)-1-i];//สลับ
         text[strlen(text)-1-i]=a;//เอาตัวที่ฝากไว้มาใส้่
     }
-    printf("%s",text);
+    printf("Your invert text is %s",text);
 }

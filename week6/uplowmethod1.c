@@ -18,5 +18,5 @@ int main()
             lower++;
         }
     }
-    printf("There is %d uppercase and %d lowercase ",upper,lower);
+    printf("There are %d uppercase and %d lowercase ",upper,lower);
 }

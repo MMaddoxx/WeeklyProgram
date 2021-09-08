@@ -7,7 +7,7 @@ int main()
     char text[100];
     printf("Enter text : ");
     scanf("%s",text);
-    printf("There is %d uppercase and %d lowercase",uppercheck(text),lowercheck(text));
+    printf("There are %d uppercase and %d lowercase",uppercheck(text),lowercheck(text));
 }
 int uppercheck(char text[100])
 {
